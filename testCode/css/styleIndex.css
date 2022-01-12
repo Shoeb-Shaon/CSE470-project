@@ -1,0 +1,195 @@
+ CSS style sheet
+#main-wrapper{
+width500px;
+margin 0 auto;
+backgroundwhite;
+padding5px;
+border-radius10px;
+border3px solid #2c3e50;
+}
+.avatar{
+width150px;
+text-aligncenter;
+}
+.myform{
+ width450px;
+ margin0 auto;
+}
+.inputvalues{
+width430px;
+margin0 auto;
+padding5px;
+}
+#login_btn{
+margin-top10px;
+background-color#27ae60;
+padding5px;
+colorwhite;
+width100%;
+text-aligncenter;
+font-size18px;
+font-weightbold;
+}
+#register_btn{
+margin-bottom20px;
+margin-top10px;
+background-color#3498db;
+padding5px;
+colorwhite;
+width100%;
+text-aligncenter;
+font-size18px;
+font-weightbold;
+}
+#signup_btn{
+margin-top10px;
+background-color#3498db;
+padding5px;
+colorwhite;
+width100%;
+text-aligncenter;
+font-size18px;
+font-weightbold;
+}
+#logout_btn{
+margin-top10px;
+margin-bottom10px;
+background-color#2980b9;
+padding5px;
+colorwhite;
+width100%;
+text-aligncenter;
+font-size18px;
+font-weightbold;
+}
+ 
+
+
+ new css 
+
+body{
+   background-imagelinear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url(..brownie-coffee-coffee-shop-1213303.jpg);
+   background-repeat no-repeat;
+  background-size cover;
+}
+
+
+
+
+
+	
+	.myform{
+		
+ width250px;
+ margin0 auto;
+}
+
+
+	#main-wrapper{
+		 background-imagelinear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+		margin-left20%;
+width450px;
+
+
+padding5px;
+border-radius10px;
+border3px solid #2c3e50;
+}
+.avatar{
+background-colorwhite;
+width150px;
+text-aligncenter;
+
+}
+#login_btn{
+margin-top10px;
+background-color#27ae60;
+padding5px;
+colorwhite;
+width100%;
+border-radius7px;
+border3px solid #2c3e50;
+text-aligncenter;
+font-size18px;
+font-weightbold;
+}
+
+#register_btn{
+margin-bottom20px;
+margin-top10px;
+background-color#3498db;
+padding5px;
+colorwhite;
+width100%;
+text-aligncenter;
+border-radius7px;
+border3px solid #2c3e50;
+font-size18px;
+font-weightbold;
+}
+#signup_btn{
+margin-bottom20px;
+margin-top10px;
+background-color#3498db;
+padding5px;
+colorwhite;
+width70%;
+border-radius7px;
+border3px solid #2c3e50;
+text-aligncenter;
+font-size18px;
+font-weightbold;
+}
+#back_btn{
+margin-top10px;
+margin-bottom30px;
+background-color#e74c3c;
+padding5px;
+colorwhite;
+border-radius7px;
+border3px solid #2c3e50;
+width30%;
+text-aligncenter;
+font-size18px;
+font-weightbold;
+}
+
+.inputvalues{
+width230px;
+margin0 auto;
+padding5px;
+
+}
+
+.main{
+	max-width 1200px;
+	margin auto;
+	
+}
+
+	.logo img{
+	float left;
+	width 100px;
+	height auto;
+	background-color #cfd9df;
+}
+
+		#main-wrappero{
+		margin0 auto;
+width600px;
+background-color white;
+ background-imagelinear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(..1920x1080-wallpaper-nature-4.jpg); 
+padding5px;
+border-radius10px;
+border3px solid #2c3e50;
+}
+	
+	.myforma{
+		
+ width450px;
+ margin0 auto;
+}
+	
+	
+
+	
